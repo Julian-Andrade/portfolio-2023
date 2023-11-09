@@ -8,6 +8,7 @@ module.exports = {
   theme: {
     fontFamily: {
       sans: ['var(--font-inter)', 'sans-serif'],
+      roboto: ['var(--font-roboto)', 'roboto'],
     },
     extend: {
       backgroundImage: {
@@ -17,7 +18,7 @@ module.exports = {
         mono: ['var(--font-plex-mono)', 'monospace'],
       },
       boxShadow: {
-        button: '0px 0px 68px 7px rgba(5, 150, 105, 0.4)',
+        button: '0px 0px 68px 7px rgba(168, 85, 247, 0.4)',
       },
     },
   },
