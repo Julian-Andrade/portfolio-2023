@@ -8,11 +8,11 @@ import { motion } from 'framer-motion'
 // Navigation
 const NAV_ITEMS = [
   {
-    label: 'Página Inicial',
+    label: 'Home',
     href: '/',
   },
   {
-    label: 'Meus Projetos',
+    label: 'Projetos',
     href: '/projects',
   },
 ]
